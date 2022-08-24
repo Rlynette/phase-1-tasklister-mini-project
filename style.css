@@ -35,3 +35,17 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+
+d.elete-btn {
+  background-color: green;
+  color: goldenrod;
+  padding:18px ;
+  margin-left: 12px;
+  border-radius: 12px;
+  border: none;
+}
+
+.delete-btn:hover {
+  transition: 1.5s;
+  background-color: blueviolet;
+}
